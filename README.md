@@ -8,8 +8,10 @@ Brandon Moore's 1st Git Project
 This project provides practice for working with Git and remote repositories.
 
 ### Files used
-Include the files used
+Bike_Share_Analysis.html
+Bike_Share_Analysis.ipynb
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This remote repository was forked from https://github.com/udacity/pdsnd_github
+It was edited with knowledge and instructions from Udacity's Git course.
 
