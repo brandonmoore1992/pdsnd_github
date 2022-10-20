@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+20221019
 
 ### Project Title
-Replace the Project Title
+Brandon Moore's 1st Git Project
 
 ### Description
-Describe what your project is about and what it does
+This project provides practice for working with Git and remote repositories.
 
 ### Files used
 Include the files used
